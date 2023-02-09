@@ -91,3 +91,13 @@
 <div>
     <img src="ReadMeImgs/fatura.jpg" width="auto" height="auto">
 <div>
+
+<br>
+
+# CO-Authors
+
+<br>
+
+[@RodrigoCarreira](https://github.com/RFCarreira33)
+
+[@JoaoFerreira](https://github.com/JPTRON)
